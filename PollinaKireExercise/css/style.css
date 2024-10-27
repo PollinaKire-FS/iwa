@@ -130,6 +130,7 @@ input[type="checkbox"] {
     display: inline-block;
     width: 1rem;
     height: 1rem;
+    
 }
 
 #check > label {
